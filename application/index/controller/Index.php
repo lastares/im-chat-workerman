@@ -8,11 +8,14 @@ use think\Log;
 class Index extends Controller
 {
     public $domain;
+    public $host;
 
     public function __construct()
     {
         parent::__construct();
-        $this->domain = Config::get('chat')['domain'];
+        $chatConfig = Config::get('chat');
+        $this->domain = $chatConfig['domain'];
+        $this->host = $chatConfig['host'];
 
     }
     public function index()
@@ -22,6 +25,7 @@ class Index extends Controller
         $this->assign('fromId', $fromId);
         $this->assign('toId', $toId);
         $this->assign('domain', $this->domain);
+        $this->assign('host', $this->host);
         return $this->fetch();
     }
 
@@ -36,6 +40,7 @@ class Index extends Controller
         $this->assign('domain', $this->domain);
         $fromId = input('from_id');
         $this->assign('fromId', $fromId);
+        $this->assign('host', $this->host);
         return $this->fetch();
     }
 }

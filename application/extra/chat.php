@@ -8,5 +8,6 @@
 
 return [
     // 域名配置
-    'domain' => 'www.chat.com'
+    'domain' => 'www.chat.com',
+    'host' => '127.0.0.1'
 ];

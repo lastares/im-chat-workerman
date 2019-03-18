@@ -70,6 +70,7 @@
     //     getHeadImg();
     // }
     let _domain = "{$domain}";
+    let host = "{$host}";
     let domain = _domain + '/?s=';
     let fromId = {$fromId};
     let toId = {$toId};
@@ -77,7 +78,7 @@
     let receiver_head_img = '';
     let nickname = '';
     let is_online = 0;
-    let ws = new WebSocket('ws://' + _domain +':8282');
+    let ws = new WebSocket('ws://' + host +':8282');
 
     $(function(){
 
