@@ -45,10 +45,12 @@
 </body>
 <script>
 
-    let API_URL = "http://www.chat.com/index.php?s=api/chat/";
+    let _domain = "{$domain}";
+    let domain = _domain + '/?s=';
+    let API_URL = 'http://'+ _domain +'/index.php?s=api/chat/';
     let fromid ={$fromId};
 
-    let ws = new WebSocket('ws://127.0.0.1:8282');
+    let ws = new WebSocket('ws://'+ _domain +':8282');
 
     ws.onmessage = function (e) {
         let messageData = eval("("+ e.data +")")

@@ -69,14 +69,15 @@
     // window.onload = function () {
     //     getHeadImg();
     // }
-    let domain = 'http://www.chat.com/?s=';
+    let _domain = "{$domain}";
+    let domain = _domain + '/?s=';
     let fromId = {$fromId};
     let toId = {$toId};
     let sender_head_img = '';
     let receiver_head_img = '';
     let nickname = '';
     let is_online = 0;
-    let ws = new WebSocket('ws://www.chat.com:8282');
+    let ws = new WebSocket('ws://' + _domain +':8282');
 
     $(function(){
 
@@ -132,7 +133,7 @@
                     break;
                 case 'text':
                     if (toId == data.from_id) {
-                        $('.chat-content').append('<div class="chat-text section-left flex"><span class="char-img" style="background-image: url('+ receiver_head_img +')"></span><span class="text" style="width:300px;"><i class="icon icon-sanjiao4 t-32"></i>' + replace_em(data.data) + '</span>');
+                        $('.chat-content').append('<div class="chat-text section-left flex"><span class="char-img" style="background-image: url('+ receiver_head_img +')"></span><span class="text"><i class="icon icon-sanjiao4 t-32"></i>' + replace_em(data.data) + '</span>');
                         $('.chat-content').scrollTop(3000);
                         changeNoRead();
                     }
