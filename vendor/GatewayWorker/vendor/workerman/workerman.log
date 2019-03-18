@@ -1,0 +1,433 @@
+2019-03-06 08:16:20 pid:9337 Workerman[start.php] start in DEBUG mode
+2019-03-06 08:16:37 pid:9337 Workerman[start.php] stopping ...
+2019-03-06 08:16:37 pid:9337 Workerman[start.php] has been stopped
+2019-03-06 14:14:16 pid:3089 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-06 15:12:55 pid:3089 Workerman[start.php] stopping ...
+2019-03-06 15:12:55 pid:3089 Workerman[start.php] has been stopped
+2019-03-06 15:12:58 pid:3511 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-06 15:17:53 pid:3511 Workerman[start.php] stopping ...
+2019-03-06 15:17:53 pid:3511 Workerman[start.php] has been stopped
+2019-03-06 15:17:54 pid:3563 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-06 15:18:36 pid:3563 Workerman[start.php] stopping ...
+2019-03-06 15:18:36 pid:3563 Workerman[start.php] has been stopped
+2019-03-06 15:18:36 pid:3582 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-06 15:21:29 pid:3582 Workerman[start.php] stopping ...
+2019-03-06 15:21:29 pid:3582 Workerman[start.php] has been stopped
+2019-03-06 15:21:29 pid:3619 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-06 15:22:41 pid:3619 Workerman[start.php] stopping ...
+2019-03-06 15:22:41 pid:3619 Workerman[start.php] has been stopped
+2019-03-06 15:22:42 pid:3643 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-06 15:23:21 pid:3643 Workerman[start.php] stopping ...
+2019-03-06 15:23:21 pid:3643 Workerman[start.php] has been stopped
+2019-03-06 15:23:23 pid:3662 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-06 15:28:33 pid:3662 Workerman[start.php] stopping ...
+2019-03-06 15:28:33 pid:3662 Workerman[start.php] has been stopped
+2019-03-06 15:28:35 pid:3733 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-06 15:29:07 pid:3733 Workerman[start.php] stopping ...
+2019-03-06 15:29:07 pid:3733 Workerman[start.php] has been stopped
+2019-03-06 15:29:07 pid:3751 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-07 02:47:18 pid:3751 Workerman[start.php] stopping ...
+2019-03-07 02:47:18 pid:3751 Workerman[start.php] has been stopped
+2019-03-11 08:14:07 pid:7355 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-11 12:01:51 pid:7355 Workerman[start.php] stopping ...
+2019-03-11 12:01:51 pid:7355 Workerman[start.php] has been stopped
+2019-03-11 12:01:53 pid:9447 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-11 12:11:43 pid:9447 Workerman[start.php] stopping ...
+2019-03-11 12:11:44 pid:9447 Workerman[start.php] has been stopped
+2019-03-11 12:11:45 pid:9602 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-11 12:17:24 pid:9602 Workerman[start.php] stopping ...
+2019-03-11 12:17:24 pid:9602 Workerman[start.php] has been stopped
+2019-03-11 12:17:25 pid:9686 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-11 12:48:14 pid:9686 Workerman[start.php] stopping ...
+2019-03-11 12:48:15 pid:9686 Workerman[start.php] has been stopped
+2019-03-11 12:48:16 pid:10115 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-11 12:51:19 pid:10115 Workerman[start.php] stopping ...
+2019-03-11 12:51:19 pid:10115 Workerman[start.php] has been stopped
+2019-03-11 12:51:20 pid:10169 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-11 15:45:40 pid:2578 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-11 15:48:43 pid:2578 Workerman[start.php] stopping ...
+2019-03-11 15:48:43 pid:2578 Workerman[start.php] has been stopped
+2019-03-11 15:48:43 pid:2610 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-11 16:03:55 pid:2610 Workerman[start.php] stopping ...
+2019-03-11 16:03:55 pid:2610 Workerman[start.php] has been stopped
+2019-03-11 16:03:56 pid:2752 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-11 16:04:48 pid:2752 Workerman[start.php] stopping ...
+2019-03-11 16:04:48 pid:2752 Workerman[start.php] has been stopped
+2019-03-11 16:05:36 pid:2786 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-11 16:06:23 pid:2786 Workerman[start.php] stopping ...
+2019-03-11 16:06:23 pid:2786 Workerman[start.php] has been stopped
+2019-03-11 16:06:24 pid:2806 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-12 02:53:18 pid:2079 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-12 02:55:59 pid:2079 Workerman[start.php] stopping ...
+2019-03-12 02:55:59 pid:2079 Workerman[start.php] has been stopped
+2019-03-12 02:56:01 pid:2222 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-12 02:57:42 pid:2222 Workerman[start.php] stopping ...
+2019-03-12 02:57:42 pid:2222 Workerman[start.php] has been stopped
+2019-03-12 02:57:43 pid:2257 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-12 02:58:07 pid:2257 Workerman[start.php] stopping ...
+2019-03-12 02:58:07 pid:2257 Workerman[start.php] has been stopped
+2019-03-12 02:58:08 pid:2276 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-12 02:59:56 pid:2276 Workerman[start.php] stopping ...
+2019-03-12 02:59:56 pid:2276 Workerman[start.php] has been stopped
+2019-03-12 02:59:57 pid:2314 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-12 03:07:51 pid:2314 Workerman[start.php] stopping ...
+2019-03-12 03:07:51 pid:2314 Workerman[start.php] has been stopped
+2019-03-12 03:07:52 pid:2434 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-12 03:14:47 pid:2434 Workerman[start.php] stopping ...
+2019-03-12 03:14:47 pid:2434 Workerman[start.php] has been stopped
+2019-03-12 03:14:48 pid:2540 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-12 03:47:23 pid:2540 Workerman[start.php] stopping ...
+2019-03-12 03:47:23 pid:2540 Workerman[start.php] has been stopped
+2019-03-12 03:59:56 pid:3257 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-12 04:00:08 pid:3257 Workerman[start.php] stopping ...
+2019-03-12 04:00:08 pid:3257 Workerman[start.php] has been stopped
+2019-03-12 04:00:09 pid:3274 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-12 04:01:18 pid:3274 Workerman[start.php] stopping ...
+2019-03-12 04:01:18 pid:3274 Workerman[start.php] has been stopped
+2019-03-12 04:01:18 pid:3303 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-12 04:02:14 pid:3303 Workerman[start.php] stopping ...
+2019-03-12 04:02:14 pid:3303 Workerman[start.php] has been stopped
+2019-03-12 04:02:15 pid:3330 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-12 04:04:15 pid:3330 Workerman[start.php] stopping ...
+2019-03-12 04:04:15 pid:3330 Workerman[start.php] has been stopped
+2019-03-12 04:04:16 pid:3370 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-12 04:04:32 pid:3370 Workerman[start.php] stopping ...
+2019-03-12 04:04:32 pid:3370 Workerman[start.php] has been stopped
+2019-03-12 04:04:33 pid:3388 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-12 04:06:11 pid:3388 Workerman[start.php] stopping ...
+2019-03-12 04:06:11 pid:3388 Workerman[start.php] has been stopped
+2019-03-12 04:06:12 pid:3530 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-12 04:20:07 pid:3530 Workerman[start.php] stopping ...
+2019-03-12 04:20:07 pid:3530 Workerman[start.php] has been stopped
+2019-03-12 04:20:08 pid:3731 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-12 04:20:40 pid:3731 Workerman[start.php] stopping ...
+2019-03-12 04:20:40 pid:3731 Workerman[start.php] has been stopped
+2019-03-12 04:20:41 pid:3751 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-12 04:23:20 pid:3751 Workerman[start.php] stopping ...
+2019-03-12 04:23:20 pid:3751 Workerman[start.php] has been stopped
+2019-03-12 04:23:21 pid:3800 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-12 04:24:21 pid:3800 Workerman[start.php] stopping ...
+2019-03-12 04:24:21 pid:3800 Workerman[start.php] has been stopped
+2019-03-12 04:24:21 pid:3828 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-12 04:24:48 pid:3828 Workerman[start.php] stopping ...
+2019-03-12 04:24:48 pid:3828 Workerman[start.php] has been stopped
+2019-03-12 04:24:50 pid:3849 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-12 04:26:35 pid:3849 Workerman[start.php] stopping ...
+2019-03-12 04:26:35 pid:3849 Workerman[start.php] has been stopped
+2019-03-12 04:26:36 pid:3886 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-12 04:27:09 pid:3886 Workerman[start.php] stopping ...
+2019-03-12 04:27:09 pid:3886 Workerman[start.php] has been stopped
+2019-03-12 04:27:10 pid:3908 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-12 04:28:44 pid:3908 Workerman[start.php] stopping ...
+2019-03-12 04:28:44 pid:3908 Workerman[start.php] has been stopped
+2019-03-12 04:28:45 pid:3943 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-12 04:32:29 pid:3943 Workerman[start.php] stopping ...
+2019-03-12 04:32:29 pid:3943 Workerman[start.php] has been stopped
+2019-03-12 04:32:30 pid:4007 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-12 04:37:38 pid:4007 Workerman[start.php] stopping ...
+2019-03-12 04:37:38 pid:4007 Workerman[start.php] has been stopped
+2019-03-12 04:37:39 pid:4098 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-12 04:39:35 pid:4098 Workerman[start.php] stopping ...
+2019-03-12 04:39:36 pid:4098 Workerman[start.php] has been stopped
+2019-03-12 04:39:36 pid:4138 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-12 07:33:18 pid:4138 Workerman[start.php] stopping ...
+2019-03-12 07:33:18 pid:4138 Workerman[start.php] has been stopped
+2019-03-12 07:33:51 pid:7084 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-12 07:35:09 pid:7084 Workerman[start.php] stopping ...
+2019-03-12 07:35:09 pid:7084 Workerman[start.php] has been stopped
+2019-03-12 07:35:10 pid:7121 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-12 07:36:07 pid:7121 Workerman[start.php] stopping ...
+2019-03-12 07:36:07 pid:7121 Workerman[start.php] has been stopped
+2019-03-12 07:36:08 pid:7147 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-12 07:36:49 pid:7147 Workerman[start.php] stopping ...
+2019-03-12 07:36:50 pid:7147 Workerman[start.php] has been stopped
+2019-03-12 07:36:50 pid:7171 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-12 07:37:17 pid:7171 Workerman[start.php] stopping ...
+2019-03-12 07:37:17 pid:7171 Workerman[start.php] has been stopped
+2019-03-12 07:37:18 pid:7192 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-12 07:37:55 pid:7192 Workerman[start.php] stopping ...
+2019-03-12 07:37:55 pid:7192 Workerman[start.php] has been stopped
+2019-03-12 07:37:56 pid:7215 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-12 07:45:19 pid:7215 Workerman[start.php] stopping ...
+2019-03-12 07:45:19 pid:7215 Workerman[start.php] has been stopped
+2019-03-12 07:45:20 pid:7368 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-12 07:47:17 pid:7368 Workerman[start.php] stopping ...
+2019-03-12 07:47:18 pid:7368 Workerman[start.php] has been stopped
+2019-03-12 07:47:18 pid:7410 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-12 07:48:32 pid:7410 Workerman[start.php] stopping ...
+2019-03-12 07:48:32 pid:7410 Workerman[start.php] has been stopped
+2019-03-12 07:48:33 pid:7440 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-12 07:59:20 pid:7440 Workerman[start.php] stopping ...
+2019-03-12 07:59:20 pid:7440 Workerman[start.php] has been stopped
+2019-03-12 07:59:21 pid:7610 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-12 08:01:45 pid:7610 Workerman[start.php] stopping ...
+2019-03-12 08:01:46 pid:7610 Workerman[start.php] has been stopped
+2019-03-12 08:01:46 pid:7662 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-12 08:02:56 pid:7662 Workerman[start.php] stopping ...
+2019-03-12 08:02:56 pid:7662 Workerman[start.php] has been stopped
+2019-03-12 08:02:57 pid:7691 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-12 08:26:29 pid:7691 Workerman[start.php] stopping ...
+2019-03-12 08:26:29 pid:7691 Workerman[start.php] has been stopped
+2019-03-12 08:26:30 pid:8042 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-12 08:45:26 pid:8042 Workerman[start.php] stopping ...
+2019-03-12 08:45:26 pid:8042 Workerman[start.php] has been stopped
+2019-03-12 08:45:27 pid:8346 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-12 08:58:34 pid:8346 Workerman[start.php] stopping ...
+2019-03-12 08:58:34 pid:8346 Workerman[start.php] has been stopped
+2019-03-12 08:58:34 pid:8539 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-12 09:02:41 pid:8539 Workerman[start.php] stopping ...
+2019-03-12 09:02:42 pid:8539 Workerman[start.php] has been stopped
+2019-03-12 09:02:43 pid:8614 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-12 09:29:54 pid:8614 Workerman[start.php] stopping ...
+2019-03-12 09:29:54 pid:8614 Workerman[start.php] has been stopped
+2019-03-12 09:29:55 pid:9009 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-12 09:31:49 pid:9009 Workerman[start.php] stopping ...
+2019-03-12 09:31:49 pid:9009 Workerman[start.php] has been stopped
+2019-03-12 09:31:50 pid:9051 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-12 12:09:45 pid:9051 Workerman[start.php] stopping ...
+2019-03-12 12:09:45 pid:9051 Workerman[start.php] has been stopped
+2019-03-12 12:09:47 pid:11274 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-12 12:16:20 pid:11274 Workerman[start.php] stopping ...
+2019-03-12 12:16:21 pid:11274 Workerman[start.php] has been stopped
+2019-03-12 12:16:22 pid:11390 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-12 12:27:14 pid:11390 Workerman[start.php] stopping ...
+2019-03-12 12:27:14 pid:11390 Workerman[start.php] has been stopped
+2019-03-12 12:27:15 pid:11556 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-13 03:51:56 pid:3499 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-13 03:52:12 pid:3499 Workerman[start.php] stopping ...
+2019-03-13 03:52:12 pid:3499 Workerman[start.php] has been stopped
+2019-03-13 03:52:13 pid:3516 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-13 03:52:32 pid:3517 Error: Class 'think\Log' not found in /usr/local/nginx/html/im/GatewayWorker/Applications/YourApp/Events.php:95
+Stack trace:
+#0 [internal function]: Events::onMessage('7f0000010b57000...', '{"type": "onlin...')
+#1 /usr/local/nginx/html/im/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(403): call_user_func('Events::onMessa...', '7f0000010b57000...', '{"type": "onlin...')
+#2 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#3 /usr/local/nginx/html/im/GatewayWorker/vendor/workerman/workerman/Connection/TcpConnection.php(658): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #45)
+#5 /usr/local/nginx/html/im/GatewayWorker/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#6 /usr/local/nginx/html/im/GatewayWorker/vendor/workerman/workerman/Worker.php(2321): Workerman\Events\Select->loop()
+#7 /usr/local/nginx/html/im/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(197): Workerman\Worker->run()
+#8 /usr/local/nginx/html/im/GatewayWorker/vendor/workerman/workerman/Worker.php(1452): GatewayWorker\BusinessWorker->run()
+#9 /usr/local/nginx/html/im/GatewayWorker/vendor/workerman/workerman/Worker.php(1282): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#10 /usr/local/nginx/html/im/GatewayWorker/vendor/workerman/workerman/Worker.php(1256): Workerman\Worker::forkWorkersForLinux()
+#11 /usr/local/nginx/html/im/GatewayWorker/vendor/workerman/workerman/Worker.php(507): Workerman\Worker::forkWorkers()
+#12 /usr/local/nginx/html/im/GatewayWorker/start.php(37): Workerman\Worker::runAll()
+#13 {main}
+2019-03-13 03:52:32 pid:3517 Worker[3517] process terminated
+2019-03-13 03:52:32 pid:3516 worker[YourAppBusinessWorker:3517] exit with status 64000
+2019-03-13 03:52:47 pid:3531 Error: Class 'think\Log' not found in /usr/local/nginx/html/im/GatewayWorker/Applications/YourApp/Events.php:95
+Stack trace:
+#0 [internal function]: Events::onMessage('7f0000010b55000...', '{"type": "onlin...')
+#1 /usr/local/nginx/html/im/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(403): call_user_func('Events::onMessa...', '7f0000010b55000...', '{"type": "onlin...')
+#2 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#3 /usr/local/nginx/html/im/GatewayWorker/vendor/workerman/workerman/Connection/TcpConnection.php(658): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #44)
+#5 /usr/local/nginx/html/im/GatewayWorker/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#6 /usr/local/nginx/html/im/GatewayWorker/vendor/workerman/workerman/Worker.php(2321): Workerman\Events\Select->loop()
+#7 /usr/local/nginx/html/im/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(197): Workerman\Worker->run()
+#8 /usr/local/nginx/html/im/GatewayWorker/vendor/workerman/workerman/Worker.php(1452): GatewayWorker\BusinessWorker->run()
+#9 /usr/local/nginx/html/im/GatewayWorker/vendor/workerman/workerman/Worker.php(1282): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#10 /usr/local/nginx/html/im/GatewayWorker/vendor/workerman/workerman/Worker.php(1256): Workerman\Worker::forkWorkersForLinux()
+#11 /usr/local/nginx/html/im/GatewayWorker/vendor/workerman/workerman/Worker.php(1586): Workerman\Worker::forkWorkers()
+#12 /usr/local/nginx/html/im/GatewayWorker/vendor/workerman/workerman/Worker.php(1535): Workerman\Worker::monitorWorkersForLinux()
+#13 /usr/local/nginx/html/im/GatewayWorker/vendor/workerman/workerman/Worker.php(509): Workerman\Worker::monitorWorkers()
+#14 /usr/local/nginx/html/im/GatewayWorker/start.php(37): Workerman\Worker::runAll()
+#15 {main}
+2019-03-13 03:52:47 pid:3531 Worker[3531] process terminated
+2019-03-13 03:52:47 pid:3516 worker[YourAppBusinessWorker:3531] exit with status 64000
+2019-03-13 03:53:05 pid:3519 Error: Class 'think\Log' not found in /usr/local/nginx/html/im/GatewayWorker/Applications/YourApp/Events.php:95
+Stack trace:
+#0 [internal function]: Events::onMessage('7f0000010b57000...', '{"type": "onlin...')
+#1 /usr/local/nginx/html/im/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(403): call_user_func('Events::onMessa...', '7f0000010b57000...', '{"type": "onlin...')
+#2 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#3 /usr/local/nginx/html/im/GatewayWorker/vendor/workerman/workerman/Connection/TcpConnection.php(658): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #47)
+#5 /usr/local/nginx/html/im/GatewayWorker/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#6 /usr/local/nginx/html/im/GatewayWorker/vendor/workerman/workerman/Worker.php(2321): Workerman\Events\Select->loop()
+#7 /usr/local/nginx/html/im/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(197): Workerman\Worker->run()
+#8 /usr/local/nginx/html/im/GatewayWorker/vendor/workerman/workerman/Worker.php(1452): GatewayWorker\BusinessWorker->run()
+#9 /usr/local/nginx/html/im/GatewayWorker/vendor/workerman/workerman/Worker.php(1282): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#10 /usr/local/nginx/html/im/GatewayWorker/vendor/workerman/workerman/Worker.php(1256): Workerman\Worker::forkWorkersForLinux()
+#11 /usr/local/nginx/html/im/GatewayWorker/vendor/workerman/workerman/Worker.php(507): Workerman\Worker::forkWorkers()
+#12 /usr/local/nginx/html/im/GatewayWorker/start.php(37): Workerman\Worker::runAll()
+#13 {main}
+2019-03-13 03:53:05 pid:3519 Worker[3519] process terminated
+2019-03-13 03:53:05 pid:3516 worker[YourAppBusinessWorker:3519] exit with status 64000
+2019-03-13 03:54:49 pid:3516 Workerman[start.php] stopping ...
+2019-03-13 03:54:50 pid:3516 Workerman[start.php] has been stopped
+2019-03-13 03:54:50 pid:3576 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-13 03:57:08 pid:3576 Workerman[start.php] stopping ...
+2019-03-13 03:57:08 pid:3576 Workerman[start.php] has been stopped
+2019-03-13 03:57:09 pid:3618 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-13 03:58:17 pid:3618 Workerman[start.php] stopping ...
+2019-03-13 03:58:17 pid:3618 Workerman[start.php] has been stopped
+2019-03-13 03:58:18 pid:3649 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-13 04:02:20 pid:3649 Workerman[start.php] stopping ...
+2019-03-13 04:02:20 pid:3649 Workerman[start.php] has been stopped
+2019-03-13 04:02:21 pid:3715 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-13 04:07:11 pid:3715 Workerman[start.php] stopping ...
+2019-03-13 04:07:12 pid:3715 Workerman[start.php] has been stopped
+2019-03-13 04:07:13 pid:3793 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-13 04:08:10 pid:3793 Workerman[start.php] stopping ...
+2019-03-13 04:08:10 pid:3793 Workerman[start.php] has been stopped
+2019-03-13 04:08:11 pid:3823 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-13 04:08:43 pid:3823 Workerman[start.php] stopping ...
+2019-03-13 04:08:43 pid:3823 Workerman[start.php] has been stopped
+2019-03-13 04:08:44 pid:3845 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-13 04:30:15 pid:3845 Workerman[start.php] stopping ...
+2019-03-13 04:30:15 pid:3845 Workerman[start.php] has been stopped
+2019-03-13 04:30:16 pid:4177 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-13 06:39:34 pid:4177 Workerman[start.php] stopping ...
+2019-03-13 06:39:34 pid:4177 Workerman[start.php] has been stopped
+2019-03-13 06:39:35 pid:5858 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-13 06:40:40 pid:5858 Workerman[start.php] stopping ...
+2019-03-13 06:40:40 pid:5858 Workerman[start.php] has been stopped
+2019-03-13 06:40:41 pid:5888 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-13 06:42:26 pid:5888 Workerman[start.php] stopping ...
+2019-03-13 06:42:26 pid:5888 Workerman[start.php] has been stopped
+2019-03-13 06:42:27 pid:5928 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-13 06:43:40 pid:5928 Workerman[start.php] stopping ...
+2019-03-13 06:43:40 pid:5928 Workerman[start.php] has been stopped
+2019-03-13 06:43:41 pid:5958 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-13 06:44:38 pid:5958 Workerman[start.php] stopping ...
+2019-03-13 06:44:38 pid:5958 Workerman[start.php] has been stopped
+2019-03-13 06:44:39 pid:5986 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-13 06:45:49 pid:5986 Workerman[start.php] stopping ...
+2019-03-13 06:45:49 pid:5986 Workerman[start.php] has been stopped
+2019-03-13 06:45:51 pid:6025 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-13 07:01:07 pid:6025 Workerman[start.php] stopping ...
+2019-03-13 07:01:07 pid:6025 Workerman[start.php] has been stopped
+2019-03-13 07:01:08 pid:6245 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-13 07:07:46 pid:6245 Workerman[start.php] stopping ...
+2019-03-13 07:07:46 pid:6245 Workerman[start.php] has been stopped
+2019-03-13 07:07:47 pid:6346 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-13 07:08:47 pid:6346 Workerman[start.php] stopping ...
+2019-03-13 07:08:47 pid:6346 Workerman[start.php] has been stopped
+2019-03-13 07:08:48 pid:6377 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-13 07:10:22 pid:6377 Workerman[start.php] stopping ...
+2019-03-13 07:10:23 pid:6377 Workerman[start.php] has been stopped
+2019-03-13 07:10:24 pid:6414 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-13 07:14:03 pid:6414 Workerman[start.php] stopping ...
+2019-03-13 07:14:03 pid:6414 Workerman[start.php] has been stopped
+2019-03-13 07:15:18 pid:6502 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-13 07:19:24 pid:6502 Workerman[start.php] stopping ...
+2019-03-13 07:19:24 pid:6502 Workerman[start.php] has been stopped
+2019-03-13 07:19:27 pid:6570 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-13 07:19:32 pid:6570 Workerman[start.php] stopping ...
+2019-03-13 07:19:32 pid:6570 Workerman[start.php] has been stopped
+2019-03-13 07:19:41 pid:6593 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-13 07:20:18 pid:6593 Workerman[start.php] stopping ...
+2019-03-13 07:20:18 pid:6593 Workerman[start.php] has been stopped
+2019-03-13 07:20:21 pid:6615 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-13 07:27:10 pid:6615 Workerman[start.php] stopping ...
+2019-03-13 07:27:10 pid:6615 Workerman[start.php] has been stopped
+2019-03-13 07:27:11 pid:6723 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-13 07:28:27 pid:6723 Workerman[start.php] stopping ...
+2019-03-13 07:28:27 pid:6723 Workerman[start.php] has been stopped
+2019-03-13 07:29:05 pid:6771 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-13 07:31:17 pid:6771 Workerman[start.php] stopping ...
+2019-03-13 07:31:17 pid:6771 Workerman[start.php] has been stopped
+2019-03-13 07:31:18 pid:6819 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-13 07:32:01 pid:6819 Workerman[start.php] stopping ...
+2019-03-13 07:32:01 pid:6819 Workerman[start.php] has been stopped
+2019-03-13 07:32:11 pid:6851 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-13 07:34:07 pid:6851 Workerman[start.php] stopping ...
+2019-03-13 07:34:07 pid:6851 Workerman[start.php] has been stopped
+2019-03-13 07:34:08 pid:6892 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-13 07:34:49 pid:6892 Workerman[start.php] stopping ...
+2019-03-13 07:34:49 pid:6892 Workerman[start.php] has been stopped
+2019-03-13 07:35:27 pid:6932 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-13 08:01:33 pid:6932 Workerman[start.php] stopping ...
+2019-03-13 08:01:33 pid:6932 Workerman[start.php] has been stopped
+2019-03-13 08:01:35 pid:7311 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-13 08:04:04 pid:7311 Workerman[start.php] stopping ...
+2019-03-13 08:04:04 pid:7311 Workerman[start.php] has been stopped
+2019-03-13 08:04:05 pid:7359 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-13 14:28:59 pid:12453 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-13 14:30:43 pid:12453 Workerman[start.php] stopping ...
+2019-03-13 14:30:43 pid:12453 Workerman[start.php] has been stopped
+2019-03-13 14:40:25 pid:12632 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-13 14:44:38 pid:12632 Workerman[start.php] stopping ...
+2019-03-13 14:44:38 pid:12632 Workerman[start.php] has been stopped
+2019-03-13 14:44:39 pid:12706 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-13 14:49:21 pid:12706 Workerman[start.php] stopping ...
+2019-03-13 14:49:21 pid:12706 Workerman[start.php] has been stopped
+2019-03-13 14:55:11 pid:12882 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-13 14:57:16 pid:12882 Workerman[start.php] stopping ...
+2019-03-13 14:57:16 pid:12882 Workerman[start.php] has been stopped
+2019-03-13 14:57:17 pid:12929 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-13 14:57:45 pid:12929 Workerman[start.php] stopping ...
+2019-03-13 14:57:45 pid:12929 Workerman[start.php] has been stopped
+2019-03-13 14:57:46 pid:12950 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-13 15:06:45 pid:12950 Workerman[start.php] stopping ...
+2019-03-13 15:06:45 pid:12950 Workerman[start.php] has been stopped
+2019-03-13 15:06:46 pid:13094 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-13 15:09:49 pid:13094 Workerman[start.php] stopping ...
+2019-03-13 15:09:49 pid:13094 Workerman[start.php] has been stopped
+2019-03-13 15:09:50 pid:13148 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-13 15:14:12 pid:13148 Workerman[start.php] stopping ...
+2019-03-13 15:14:12 pid:13148 Workerman[start.php] has been stopped
+2019-03-13 15:14:13 pid:13223 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-13 15:18:00 pid:13223 Workerman[start.php] stopping ...
+2019-03-13 15:18:00 pid:13223 Workerman[start.php] has been stopped
+2019-03-13 15:18:01 pid:13297 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-13 15:18:33 pid:13297 Workerman[start.php] stopping ...
+2019-03-13 15:18:33 pid:13297 Workerman[start.php] has been stopped
+2019-03-13 15:18:33 pid:13318 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-13 15:19:18 pid:13318 Workerman[start.php] stopping ...
+2019-03-13 15:19:18 pid:13318 Workerman[start.php] has been stopped
+2019-03-13 15:19:19 pid:13348 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-13 15:19:34 pid:13348 Workerman[start.php] stopping ...
+2019-03-13 15:19:34 pid:13348 Workerman[start.php] has been stopped
+2019-03-13 15:19:35 pid:13367 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-13 15:22:53 pid:13367 Workerman[start.php] stopping ...
+2019-03-13 15:22:53 pid:13367 Workerman[start.php] has been stopped
+2019-03-13 15:22:54 pid:13429 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-13 15:35:59 pid:13429 Workerman[start.php] stopping ...
+2019-03-13 15:35:59 pid:13429 Workerman[start.php] has been stopped
+2019-03-13 15:36:00 pid:13632 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-13 15:39:22 pid:13632 Workerman[start.php] stopping ...
+2019-03-13 15:39:22 pid:13632 Workerman[start.php] has been stopped
+2019-03-13 15:39:23 pid:13689 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-13 15:58:19 pid:13689 Workerman[start.php] stopping ...
+2019-03-13 15:58:20 pid:13689 Workerman[start.php] has been stopped
+2019-03-13 15:58:21 pid:13982 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-13 16:02:11 pid:13982 Workerman[start.php] stopping ...
+2019-03-13 16:02:11 pid:13982 Workerman[start.php] has been stopped
+2019-03-13 16:02:12 pid:14049 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-13 16:03:06 pid:14049 Workerman[start.php] stopping ...
+2019-03-13 16:03:06 pid:14049 Workerman[start.php] has been stopped
+2019-03-13 16:03:07 pid:14076 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-13 16:04:15 pid:14076 Workerman[start.php] stopping ...
+2019-03-13 16:04:15 pid:14076 Workerman[start.php] has been stopped
+2019-03-13 16:04:16 pid:14107 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-13 16:05:14 pid:14107 Workerman[start.php] stopping ...
+2019-03-13 16:05:14 pid:14107 Workerman[start.php] has been stopped
+2019-03-13 16:05:15 pid:14135 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-13 16:06:00 pid:14135 Workerman[start.php] stopping ...
+2019-03-13 16:06:00 pid:14135 Workerman[start.php] has been stopped
+2019-03-13 16:06:01 pid:14161 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-14 03:38:01 pid:3654 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-14 03:39:06 pid:3654 Workerman[start.php] stopping ...
+2019-03-14 03:39:06 pid:3654 Workerman[start.php] has been stopped
+2019-03-14 03:39:07 pid:3685 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-14 03:39:25 pid:3685 Workerman[start.php] stopping ...
+2019-03-14 03:39:25 pid:3685 Workerman[start.php] has been stopped
+2019-03-14 03:39:25 pid:3703 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-14 03:41:56 pid:3703 Workerman[start.php] stopping ...
+2019-03-14 03:41:56 pid:3703 Workerman[start.php] has been stopped
+2019-03-14 03:41:57 pid:3748 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-14 03:53:06 pid:3748 Workerman[start.php] stopping ...
+2019-03-14 03:53:06 pid:3748 Workerman[start.php] has been stopped
+2019-03-14 03:53:07 pid:3915 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-14 06:17:54 pid:3915 Workerman[start.php] stopping ...
+2019-03-14 06:17:54 pid:3915 Workerman[start.php] has been stopped
+2019-03-14 06:17:55 pid:5810 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-14 06:25:00 pid:5810 Workerman[start.php] stopping ...
+2019-03-14 06:25:00 pid:5810 Workerman[start.php] has been stopped
+2019-03-14 06:25:01 pid:5926 Workerman[GatewayWorker/start.php] start in DEBUG mode
+2019-03-14 10:00:27 pid:5926 Workerman[start.php] stopping ...
+2019-03-14 10:00:27 pid:5926 Workerman[start.php] has been stopped
+2019-03-18 07:29:31 pid:5796 Workerman[vendor/GatewayWorker/start.php] start in DEBUG mode
+2019-03-18 07:55:23 pid:5796 Workerman[start.php] stopping ...
+2019-03-18 07:55:23 pid:5796 Workerman[start.php] has been stopped
