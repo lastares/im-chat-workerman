@@ -132,7 +132,7 @@
                     break;
                 case 'text':
                     if (toId == data.from_id) {
-                        $('.chat-content').append('<div class="chat-text section-left flex"><span class="char-img" style="background-image: url('+ receiver_head_img +')"></span><span class="text"><i class="icon icon-sanjiao4 t-32"></i>' + replace_em(data.data) + '</span>');
+                        $('.chat-content').append('<div class="chat-text section-left flex"><span class="char-img" style="background-image: url('+ receiver_head_img +')"></span><span class="text" style="width:300px;"><i class="icon icon-sanjiao4 t-32"></i>' + replace_em(data.data) + '</span>');
                         $('.chat-content').scrollTop(3000);
                         changeNoRead();
                     }
@@ -227,7 +227,6 @@
         let url = domain + 'api/chat/getHeadImg';
         let data = {from_id: fromId, to_id: toId}
         $.post(url, data, function (e) {
-            // console.log(e);
             sender_head_img = e.sender_head_img;
             receiver_head_img = e.receiver_head_img;
         }, 'json');
