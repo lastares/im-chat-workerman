@@ -458,3 +458,11 @@ Stack trace:
 2019-03-18 09:16:20 pid:7989 Workerman[vendor/GatewayWorker/start.php] start in DEBUG mode
 2019-03-18 09:16:46 pid:7989 Workerman[start.php] stopping ...
 2019-03-18 09:16:46 pid:7989 Workerman[start.php] has been stopped
+2019-03-18 09:32:24 pid:8245 Workerman[vendor/GatewayWorker/start.php] start in DEBUG mode
+2019-03-18 09:47:25 pid:8765 Workerman[vendor/GatewayWorker/start.php] start in DEBUG mode
+2019-03-18 09:47:25 pid:8765 Workerman[vendor/GatewayWorker/start.php] already running
+2019-03-18 09:47:35 pid:8245 Workerman[start.php] stopping ...
+2019-03-18 09:47:35 pid:8245 Workerman[start.php] has been stopped
+2019-03-18 09:47:37 pid:8786 Workerman[vendor/GatewayWorker/start.php] start in DEBUG mode
+2019-03-19 02:51:05 pid:2251 Workerman[vendor/GatewayWorker/start.php] start in DEBUG mode
+2019-04-01 08:31:41 pid:6283 Workerman[vendor/GatewayWorker/start.php] start in DEBUG mode
