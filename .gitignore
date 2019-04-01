@@ -1,6 +1,6 @@
 /application/config.php
 .DS_Store
 public/.DS_Store
-.idea/workspace.xml
+.idea
 vendor/GatewayWorker/vendor/*
 vendor/GatewayWorker/vendor/workerman/workerman.log
