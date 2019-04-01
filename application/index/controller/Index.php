@@ -20,6 +20,7 @@ class Index extends Controller
     }
     public function index()
     {
+        header("Content-type: text/html; charset=utf-8");
         $fromId = input('from_id');
         $toId = input('to_id');
         $this->assign('fromId', $fromId);
